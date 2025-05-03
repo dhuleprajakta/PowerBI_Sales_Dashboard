@@ -18,11 +18,11 @@ Welcome to the **Sales Dashboard** — a visually compelling analytics tool desi
 - `order.csv`: Includes order information like customer and product details  
 
 ## 🛠️ Tech Stack
-- **Power BI / Tableau / Python (as used)**  
+- **Power BI / Python (as used)**  
 - Clean and colorful UI design with gradient themes for better readability  
 
 ## 📌 Objective
 To empower stakeholders with quick access to sales performance metrics and identify areas of strength and improvement across different business dimensions.
 
 ## 🖼️ Sample Dashboard
-![Dashboard Preview](./Screenshot%202025-05-03%20201027.png)
+![Dashboard Preview](https://github.com/dhuleprajakta/PowerBI_Sales_Dashboard/blob/main/Sales_dashboard.png)
